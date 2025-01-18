@@ -2,7 +2,7 @@
 
 In this project I explore retail sales data using SQL. The original data is a csv that I imported into pgAdmin4. 
 
-I used SQL queries to do the following:
+I wrote SQL queries to do the following:
 1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
